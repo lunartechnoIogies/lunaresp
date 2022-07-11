@@ -1,4 +1,4 @@
-# scripts
+# V3RM
 
 Hello there, wanderer!
 
@@ -8,4 +8,8 @@ But dont skid!
 
 Lunar's out!
 
-Contact me on discord: vibrantlunar#2780
+Contacts:
+
+V3rm: https://v3rmillion.net/member.php?action=profile&uid=2378577
+Discord: vibrantlunar#2780
+Roblox: XCharasiant
