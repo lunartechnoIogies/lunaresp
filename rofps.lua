@@ -37,7 +37,7 @@ spawn(function()
 	end
 end)
 
-while wait(0.1) do
+while wait() do
 	fps_counter.Text = "FPS | "..tostring(FPS) 
 end
 --CREDITS TO SPECOWOS https://www.youtube.com/c/specowos
