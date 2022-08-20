@@ -1,4 +1,4 @@
---linoria hub is hot :heart:
+--linoria ui is hot :heart:
 
 local repo = 'https://raw.githubusercontent.com/wally-rblx/LinoriaLib/main/'
 
