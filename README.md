@@ -7,12 +7,12 @@ I am not a furry.
 # Can I reach you anywhere
 Of course not, you cannot reach me as I am classified human being
 
-local info = {
+—︎
 
 V3rm: https://v3rmillion.net/member.php?action=profile&uid=2378577
 Discord: vibrantlunar#2780
 
-}
-return info
+—︎
+hi
 
  me am out bye thx cool veri cool bye.
