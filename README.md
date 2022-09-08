@@ -1,16 +1,10 @@
-# Hey what is this!!1!
-this is where I put my optimized scripts into,
-dont skid pls I work into this shit or i will be mad (no am not a furry)
+# hi what are you looking for?
+I will share my lua's where whether it's roblox/csgo
 
 # Can I reach you anywhere
-Of course not, you cannot reach me as I am classified human being
+yeah on discord ofc
+st#5412
+698661746444861512 (My discord id)
+^ Usage :  <@698661746444861512> and it should work
 
-—︎
-
-V3rm: https://v3rmillion.net/member.php?action=profile&uid=2378577
-Discord: vibrantlunar#2780
-
-—︎
-hi
-
- me am out bye thx cool veri cool bye.
+ok I leave now
