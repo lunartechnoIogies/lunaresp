@@ -16,7 +16,7 @@ local Tabs = {
     Main = Window:AddTab('Main'), 
     ['UI Settings'] = Window:AddTab('UI Settings'),
 }
---Adds the group box called "localPlayer" obviously?
+--Adds the group box called "localPlayer"
 local LeftGroupBox = Tabs.Main:AddLeftGroupbox('LocalPlayer')
 LeftGroupBox:AddLabel('Remastered from my old utility tool, which', true)
 LeftGroupBox:AddDivider()
@@ -60,11 +60,11 @@ Library:OnUnload(function()
     print('Unloaded!')
     Library.Unloaded = true
 end)
---Adds the group box called "FE Scripts" obviously?
+--Adds the group box called "FE Scripts"
 local RightGroupBox = Tabs.Main:AddLeftGroupbox('FE Scripts')
 local clo = RightGroupBox:AddButton('CloVR v2 (Cool vr script)', function()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/lunishworks/luas/main/roblox/useless/clovr.lua'))()
-    print('clovr2 executed ig')r
+    print('clovr2 executed ig')
 end)
 
 local MenuGroup = Tabs['UI Settings']:AddLeftGroupbox('Menu')
