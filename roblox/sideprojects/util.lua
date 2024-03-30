@@ -1,6 +1,6 @@
---linoria ui is hot :heart:
+--linoria ui is fire
 
-local repo = 'https://raw.githubusercontent.com/violin-suzutsuki/LinoriaLib/main/Library.lua'
+local repo = 'https://raw.githubusercontent.com/violin-suzutsuki/LinoriaLib/main/'
 
 local Library = loadstring(game:HttpGet(repo .. 'Library.lua'))()
 local ThemeManager = loadstring(game:HttpGet(repo .. 'addons/ThemeManager.lua'))()
@@ -18,7 +18,7 @@ local Tabs = {
 }
 --Adds the group box called "localPlayer" obviously?
 local LeftGroupBox = Tabs.Main:AddLeftGroupbox('LocalPlayer')
-LeftGroupBox:AddLabel('Remastered from my old utility tool, which,\nwas using kavo ui lib.\ncringe right?', true)
+LeftGroupBox:AddLabel('Remastered from my old utility tool, which', true)
 LeftGroupBox:AddDivider()
 LeftGroupBox:AddSlider('wspeed', {
     Text = 'WalkSpeed Changer',
@@ -51,7 +51,7 @@ Options.jspeed:OnChanged(function()
 end)
 
 local iy = LeftGroupBox:AddButton('FPS Counter (hotty)', function()
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/lunartechnoIogies/scripts/main/rofps.lua'))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/lunishworks/luas/main/roblox/useless/rofps.lua'))()
     print('credits to specowos for fps counter check him out fr')
 end)
 LeftGroupBox:AddLabel('thx to specowos for fps counter,\ncheck him out!')
@@ -63,8 +63,8 @@ end)
 --Adds the group box called "FE Scripts" obviously?
 local RightGroupBox = Tabs.Main:AddLeftGroupbox('FE Scripts')
 local clo = RightGroupBox:AddButton('CloVR v2 (Cool vr script)', function()
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/lunartechnoIogies/scripts/main/clovr.lua'))()
-    print('clovr2 executed ig')
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/lunishworks/luas/main/roblox/useless/clovr.lua'))()
+    print('clovr2 executed ig')r
 end)
 
 local MenuGroup = Tabs['UI Settings']:AddLeftGroupbox('Menu')
@@ -76,7 +76,7 @@ RightGroupBox:AddLabel('Zoom in or it wont work!')
 --Adds the group box called "Misc Utils" obviously?
 local BottomGroupBox = Tabs.Main:AddLeftGroupbox('Misc Utils')
 local spr2 = BottomGroupBox:AddButton('Simple Spy (remote spy)', function()
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/CoochieSlayer6372/SimpleSpyFixed/main/badscript2.lua'))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/exxtremestuffs/SimpleSpySource/master/SimpleSpy.lua'))()
     print('Simple Spy executed')
 end)
 
